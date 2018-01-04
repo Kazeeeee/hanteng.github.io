@@ -1,9 +1,9 @@
 ---
 layout: article
-title:  "网页设计与制作笔记"
-date:   2018-01-04 21:07:50 +0800
-categories: noteofweb
+title:  "信息可视化笔记"
+date:   2018-01-03 22:07:50 +0800
+categories: web design
 image:
-  teaser: 3.jpg
-  feature: 3.jpg
+  teaser: 2.jpg
+  feature：2.jpg
 ---
