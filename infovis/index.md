@@ -1,16 +1,15 @@
 ---
 layout: archive
-title: "可持续发展目标"
+title: "信息可视化作品集"
 date: 2017-12-30T11:40:45-04:00
 modified:
-excerpt: "可持续发展，含＂生态文明＂倡议"
+excerpt: "信息可视化作品集"
 tags: []
 image: 
   feature: 300x200.gif
   teaser:
 ---
 
-在此展示可持续发展目标内容简绍及思考
 
 <div class="tiles">
 {% for post in site.categories.SDG %}
