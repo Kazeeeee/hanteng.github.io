@@ -3,20 +3,20 @@
 - title: 学习笔记
   url: /teaching/
   excerpt: "知识点"
-  image: learning_teaching.gif
+  image: 1.gif
 
 - title: 信息可视化
   url: /portfolio/
   excerpt: "不知道要放什么"
-  image: Portfolio.svg
+  image: 2.gif
 
 - title: 网页设计与制作
   url: /i18nl10n/
   excerpt: "更加不知道要放什么"
-  image: Tower_of_Babel.jpg
+  image: 3.gif
 
 - title: 关于作者
   url: /SDG/
   excerpt: "我是你爸爸"
-  image: 300x200.gif
+  image: 4.gif
 
