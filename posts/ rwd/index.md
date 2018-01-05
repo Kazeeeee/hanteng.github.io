@@ -16,5 +16,5 @@ image:
 {% for post in site.categories.web design %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 web design 的列出來-->
+</div><!-- /.tiles 把所有categories 有web design 的列出來-->
 
