@@ -7,7 +7,7 @@ excerpt: "笔记"
 tags: []
 image: 
   feature: infovis.jpg
-  teaser: infovis
+  teaser: infovis.jpg
 ---
 
 
