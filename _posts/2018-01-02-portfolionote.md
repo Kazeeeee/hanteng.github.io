@@ -13,6 +13,9 @@ image:
 
 
 
+image:
+  teaser: portfolio.jpg
+
 
 ## 名词解释：
 - 表单：就是网页中站点服务器处理的一组数据输入域。 
