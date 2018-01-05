@@ -6,8 +6,9 @@ modified:
 excerpt: "笔记"
 tags: []
 image: 
-  feature: 4.gif
   teaser: 4.gif
+  feature: 4.gif
+  
 ---
 
 
@@ -16,4 +17,4 @@ image:
 {% for post in site.categories.information visuailzation %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 information visuailzation 的列出来-->
+</div><!-- /.tiles 把所有categories 有 information visuailzation 的列出來-->
