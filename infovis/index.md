@@ -6,7 +6,7 @@ modified:
 excerpt: "信息可视化作品集"
 tags: []
 image: 
-  feature: 300x200.gif
+  feature: 4.gif
   teaser:
 ---
 
