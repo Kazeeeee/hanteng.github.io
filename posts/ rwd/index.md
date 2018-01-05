@@ -6,7 +6,6 @@ modified:
 excerpt: "网页设计与制作笔记"
 tags: []
 image: 
-  teaser: 4.gif
   feature: 4.gif
   
 ---
@@ -17,4 +16,4 @@ image:
 {% for post in site.categories.design %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 design 的列出來-->
+</div><!-- /.tiles 把所有categories 有 design 的列出来-->
