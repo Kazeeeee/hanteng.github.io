@@ -6,7 +6,8 @@ modified:
 excerpt: "作品集(Web)"
 tags: []
 image: 
-  feature: Portfolio.jpg
+  teaser:portfolio.jpg
+  feature: portfolio.jpg
   
 ---
 
