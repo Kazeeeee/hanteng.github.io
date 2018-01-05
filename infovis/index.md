@@ -12,7 +12,7 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.information visuailzation %}
+{% for post in site.categories.visuailzation %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 information visuailzation 的列出来-->
+</div><!-- /.tiles 把所有categories 有 visuailzation 的列出来-->
