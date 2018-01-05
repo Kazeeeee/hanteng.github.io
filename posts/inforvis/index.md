@@ -6,8 +6,8 @@ modified:
 excerpt: "笔记"
 tags: []
 image: 
-  feature: 1.jpg
-  teaser:
+  feature: infovis.jpg
+  teaser: infovis
 ---
 
 
