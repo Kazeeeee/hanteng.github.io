@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: 作品集（Web）
-  url: /inforvis/
+  url: /portfolio/
   excerpt: "portfolio"
   image: 1.gif
 
 - title: 信息可视化作品集
-  url: /portfolio/
+  url: /infovis/
   excerpt: "infovis"
   image: 1.gif
 
