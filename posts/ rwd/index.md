@@ -13,7 +13,7 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.post %}
+{% for post in site.categories.rwd post %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 post 的列出来-->
+</div><!-- /.tiles 把所有categories 有 rwd post 的列出来-->
