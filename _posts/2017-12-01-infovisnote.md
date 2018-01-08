@@ -7,5 +7,9 @@ image:
   teaser: infovis.jpg
 ---
 
+## Questions
+
+<img src="/images/queston1.png"  alt="web" />
 
 
+<img src="/images/question2.png"  alt="web" />
