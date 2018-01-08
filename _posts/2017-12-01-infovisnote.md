@@ -15,7 +15,7 @@ image:
 
 
 
-<img src="/images/qusetion1.png"  alt="1" />
+<img src="/images/qusetion1.PNG"  alt="1" />
 
 
-<img src="/images/qunestion2.png"  alt="2" />
+<img src="/images/qunestion2.PNG"  alt="2" />
