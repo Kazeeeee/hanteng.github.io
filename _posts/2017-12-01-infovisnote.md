@@ -9,7 +9,7 @@ image:
 
 ## Questions
 
-<img src="/images/queston1.png"  alt="" />
+<img src="/images/quseton1.png"  alt="1" />
 
 
-<img src="/images/question2.png"  alt="" />
+<img src="/images/qunestion2.png"  alt="2" />
